@@ -1,0 +1,20 @@
+body {
+    background-color: red
+}
+
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: white;
+    border-style: solid;
+}
+
+h3{
+    color: white;
+}
+a{
+    color: rgb(8, 244, 252);
+}
