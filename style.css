@@ -1,20 +1,29 @@
 body {
-    background-color: red
+    background-color: rgb(7, 197, 245)
+    
+    
 }
 
 h1{
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 p{
-    color: white;
-    border-style: solid;
+    color: black;
+    
 }
 
 h3{
-    color: white;
+    color: black;
 }
 a{
-    color: rgb(8, 244, 252);
+    color: rgb(203, 8, 252);
+}
+
+img{
+    border-style: solid;
+    position: relative; 
+    
 }
